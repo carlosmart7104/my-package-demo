@@ -1,5 +1,5 @@
 {
-  "name": "my-package-demo",
+  "name": "@carlosmart7104/my-package-demo",
   "version": "1.0.0",
   "description": "Demo package for testing npm + github repos.",
   "main": "index.js",
